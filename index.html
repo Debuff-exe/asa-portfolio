@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Asa</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./viewer.css" />
+    <style>
+      html, body { margin: 0; height: 100%; background: #f1f0ec; }
+      #site { position: fixed; inset: 0; }
+      #error { position: fixed; inset: 0; display: none; place-items: center; font: 15px system-ui, sans-serif; color: #c92a2a; }
+    </style>
+  </head>
+  <body>
+    <div id="site"></div>
+    <div id="error"></div>
+    <script type="module">
+      import { mount } from "./viewer.js";
+
+      mount(document.getElementById("site"), { src: "./Start.json" })
+        .then((viewer) => {
+          window.__viewer = viewer;
+        })
+        .catch((err) => {
+          const box = document.getElementById("error");
+          box.textContent = err.message;
+          box.style.display = "grid";
+        });
+    </script>
+  </body>
+</html>

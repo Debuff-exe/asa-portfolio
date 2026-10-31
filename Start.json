@@ -1,0 +1,3987 @@
+{
+  "version": 1,
+  "meta": {
+    "title": "Untitled",
+    "background": "#ffffff",
+    "createdAt": "2026-10-25T22:26:54.962Z",
+    "updatedAt": "2026-10-31T17:44:30.837Z"
+  },
+  "fonts": [
+    {
+      "family": "Cascadia",
+      "source": "bundled"
+    }
+  ],
+  "initialView": {
+    "frameId": "start-view"
+  },
+  "children": [
+    {
+      "id": "start-view",
+      "name": "Start view (invisible)",
+      "type": "rect",
+      "x": 7923.556668017025,
+      "y": 8152.487543792897,
+      "w": 1236.8873543903119,
+      "h": 645.6725279783186,
+      "locked": true,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "transparent",
+          "width": 0,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null
+      }
+    },
+    {
+      "id": "ndhdGI__Q",
+      "x": 7963.556668017025,
+      "y": 8192.487543792897,
+      "w": 573.1291788860563,
+      "h": 565.5990471255591,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null
+      },
+      "type": "group",
+      "children": [
+        {
+          "id": "XggZeLfKi",
+          "x": 0,
+          "y": 0,
+          "w": 572.997011025207,
+          "h": 565.5990471255591,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none",
+              "color": "#afc5de"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null,
+            "radius": [
+              14,
+              14,
+              14,
+              14
+            ]
+          },
+          "type": "rect"
+        },
+        {
+          "id": "XkpUPgibV",
+          "x": 0.13216786084922205,
+          "y": 0.07348085276044003,
+          "w": 572.997011025207,
+          "h": 43.22739868496683,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none",
+              "color": "#6586a5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null,
+            "radius": [
+              14,
+              14,
+              0,
+              0
+            ]
+          },
+          "type": "rect",
+          "label": {
+            "html": "<p><span style=\"color: rgb(0, 0, 0); font-family: system-ui; font-size: 36px\"><strong>Welcome</strong></span></p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          }
+        },
+        {
+          "id": "0lOz71Qs0",
+          "x": 401.4544149171579,
+          "y": 59.20406597025158,
+          "w": 142.50292189383092,
+          "h": 190.00389585844096,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null,
+            "radius": [
+              19,
+              19,
+              19,
+              19
+            ]
+          },
+          "type": "image",
+          "src": "assets/portrait.jpg",
+          "fit": "cover",
+          "alt": "pasted-1792970027632",
+          "naturalW": 1350,
+          "naturalH": 1800,
+          "placeholder": {
+            "color": "#706967"
+          }
+        },
+        {
+          "id": "igXTGgy9V",
+          "x": 408.4081729771351,
+          "y": 277.1361814729762,
+          "w": 130,
+          "h": 25.402,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "type": "text",
+          "content": {
+            "html": "<p>This is me.</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true,
+          "autoWidth": true
+        },
+        {
+          "id": "hUwRDWzhs",
+          "x": 473.6354479001693,
+          "y": 254.20754971791575,
+          "w": 0.23020828970220464,
+          "h": 17.92904386583541,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "solid",
+              "color": "#6586a5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": {
+              "roughness": 1,
+              "bowing": 1,
+              "jitter": 0.5,
+              "fillWeight": 1,
+              "seed": 2136325463
+            },
+            "radius": [
+              14,
+              14,
+              0,
+              0
+            ]
+          },
+          "type": "arrow",
+          "points": [
+            [
+              0,
+              17.92904386583541
+            ],
+            [
+              0.23020828970220464,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "triangle"
+          },
+          "end": {
+            "nodeId": "0lOz71Qs0",
+            "focus": 0,
+            "gap": 5,
+            "anchor": [
+              0.509,
+              0.976
+            ]
+          },
+          "start": {
+            "nodeId": "igXTGgy9V",
+            "focus": 0,
+            "gap": 5,
+            "anchor": [
+              0.5,
+              0.5
+            ]
+          }
+        },
+        {
+          "id": "aq_h9jxhr",
+          "x": 14.364959876067587,
+          "y": 59.20406597025158,
+          "w": 370.0901500565288,
+          "h": 243.33411550272467,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none",
+              "color": "#c8d5e5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null,
+            "radius": [
+              14,
+              14,
+              14,
+              14
+            ]
+          },
+          "type": "rect",
+          "label": {
+            "html": "<p style=\"text-align: left\">Hello,<br><br>My name is Asa Frost.</p><p style=\"text-align: left\"></p><p style=\"text-align: left\">Welcome to my portfolio!<br><br>I build things where engineering, art and research overlap.</p><p style=\"text-align: left\"></p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "left",
+              "verticalAlign": "top"
+            }
+          }
+        },
+        {
+          "id": "3h9y3HNRX",
+          "x": 14.364959876067587,
+          "y": 312.022784923226,
+          "w": 544.7376243032231,
+          "h": 163.94097718113153,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none",
+              "color": "#c8d5e5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null,
+            "radius": [
+              14,
+              14,
+              14,
+              14
+            ]
+          },
+          "type": "rect",
+          "label": {
+            "html": "<p style=\"text-align: left\">Here is how to use it:</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "left",
+              "verticalAlign": "top"
+            }
+          }
+        },
+        {
+          "id": "SCdw_HzwN",
+          "x": 66.4319686767285,
+          "y": 355.64836958675824,
+          "w": 48,
+          "h": 25.402,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "type": "text",
+          "content": {
+            "html": "<p>zoom</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true,
+          "autoWidth": true
+        },
+        {
+          "id": "9mLz8anCE",
+          "x": 256.43721776765597,
+          "y": 355.64836958675824,
+          "w": 36,
+          "h": 25.402,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "type": "text",
+          "content": {
+            "html": "<p>pan</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true,
+          "autoWidth": true
+        },
+        {
+          "id": "AR9B8kwrh",
+          "x": 415.14651200466506,
+          "y": 355.64836958675824,
+          "w": 93,
+          "h": 25.402,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "type": "text",
+          "content": {
+            "html": "<p>Interact</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true,
+          "autoWidth": true
+        },
+        {
+          "id": "rm5uie1gc",
+          "name": "Icon lens",
+          "type": "ellipse",
+          "x": 73.4319686767285,
+          "y": 392.75679385160856,
+          "w": 26,
+          "h": 26,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          }
+        },
+        {
+          "id": "kxEx86hZ0",
+          "name": "Icon stroke",
+          "type": "line",
+          "x": 96.23211643756986,
+          "y": 415.80079697112797,
+          "w": 9.199852239158645,
+          "h": 8.955996880480598,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 3.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              9.199852239158645,
+              8.955996880480598
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "none"
+          }
+        },
+        {
+          "id": "vE7GZdgd7",
+          "name": "Icon stroke",
+          "type": "line",
+          "x": 80.4319686767285,
+          "y": 405.75679385160856,
+          "w": 12,
+          "h": 0.5,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              12,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "none"
+          }
+        },
+        {
+          "id": "3VrOiBbNB",
+          "name": "Icon stroke",
+          "type": "line",
+          "x": 86.4319686767285,
+          "y": 399.75679385160856,
+          "w": 0.5,
+          "h": 12,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              12
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "none"
+          }
+        },
+        {
+          "id": "mNTSRFRXc",
+          "name": "Icon stroke",
+          "type": "arrow",
+          "x": 274.43721776765597,
+          "y": 391.75679385160856,
+          "w": 0.5,
+          "h": 15,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "solid",
+              "color": "#6586a5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              15
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "arrow"
+          }
+        },
+        {
+          "id": "Ry4IwziaI",
+          "name": "Icon stroke",
+          "type": "arrow",
+          "x": 274.43721776765597,
+          "y": 414.75679385160856,
+          "w": 0.5,
+          "h": 15,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "solid",
+              "color": "#6586a5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              15
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "arrow"
+          }
+        },
+        {
+          "id": "YlEzYNnNj",
+          "name": "Icon stroke",
+          "type": "arrow",
+          "x": 253.43721776765597,
+          "y": 410.75679385160856,
+          "w": 17,
+          "h": 0.5,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "solid",
+              "color": "#6586a5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              17,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "arrow"
+          }
+        },
+        {
+          "id": "umoif34M2",
+          "name": "Icon stroke",
+          "type": "arrow",
+          "x": 278.43721776765597,
+          "y": 410.75679385160856,
+          "w": 17,
+          "h": 0.5,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "solid",
+              "color": "#6586a5"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              17,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "arrow"
+          }
+        },
+        {
+          "id": "mzaPCDDWf",
+          "name": "Icon cursor",
+          "type": "polygon",
+          "x": 459.64651200466506,
+          "y": 399.75679385160856,
+          "w": 20,
+          "h": 31,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "solid",
+              "color": "#ffffff"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.2,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              26
+            ],
+            [
+              7,
+              20
+            ],
+            [
+              12,
+              31
+            ],
+            [
+              16,
+              29
+            ],
+            [
+              11,
+              18
+            ],
+            [
+              20,
+              18
+            ]
+          ]
+        },
+        {
+          "id": "G1kfuwiRB",
+          "name": "Icon stroke",
+          "type": "line",
+          "x": 449.64651200466506,
+          "y": 391.75679385160856,
+          "w": 5,
+          "h": 5,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.2,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              5,
+              5
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "none"
+          }
+        },
+        {
+          "id": "S79R79YO8",
+          "name": "Icon stroke",
+          "type": "line",
+          "x": 445.64651200466506,
+          "y": 404.75679385160856,
+          "w": 7,
+          "h": 0.5,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.2,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              7,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "none"
+          }
+        },
+        {
+          "id": "R412XUApo",
+          "name": "Icon stroke",
+          "type": "line",
+          "x": 463.64651200466506,
+          "y": 389.75679385160856,
+          "w": 0.5,
+          "h": 5,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.2,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "points": [
+            [
+              0,
+              5
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "route": "straight",
+          "heads": {
+            "start": "none",
+            "end": "none"
+          }
+        },
+        {
+          "id": "xYiHayVK3",
+          "name": "Hint",
+          "type": "text",
+          "x": 0.43196867672850203,
+          "y": 437.75679385160856,
+          "w": 180,
+          "h": 20,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "content": {
+            "html": "<p>scroll / pinch</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 15,
+              "fontWeight": 400,
+              "color": "#4a5b6e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true
+        },
+        {
+          "id": "T7Cs794vr",
+          "name": "Hint",
+          "type": "text",
+          "x": 184.43721776765597,
+          "y": 437.75679385160856,
+          "w": 180,
+          "h": 20,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "content": {
+            "html": "<p>click + drag</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 15,
+              "fontWeight": 400,
+              "color": "#4a5b6e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true
+        },
+        {
+          "id": "eFZiordAI",
+          "name": "Hint",
+          "type": "text",
+          "x": 371.64651200466506,
+          "y": 437.75679385160856,
+          "w": 180,
+          "h": 20,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 0,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null
+          },
+          "content": {
+            "html": "<p>click something</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 15,
+              "fontWeight": 400,
+              "color": "#4a5b6e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          "autoHeight": true
+        },
+        {
+          "id": "a5gSnAmvo",
+          "x": 14.12969336099195,
+          "y": 487.03352822972465,
+          "w": 544.7376243032231,
+          "h": 63.41665691003436,
+          "style": {
+            "opacity": 1,
+            "blendMode": "normal",
+            "fill": {
+              "kind": "none",
+              "color": "#fffffc"
+            },
+            "stroke": {
+              "color": "#1e1e1e",
+              "width": 2.5,
+              "dash": "solid",
+              "cap": "round",
+              "join": "round"
+            },
+            "sketch": null,
+            "radius": [
+              14,
+              14,
+              14,
+              14
+            ]
+          },
+          "type": "rect",
+          "label": {
+            "html": "<p style=\"text-align: center\">All of my projects exist on this canvas.</p><p style=\"text-align: center\">I hope you enjoy exploring!</p>",
+            "style": {
+              "fontFamily": "Cascadia",
+              "fontSize": 19.54,
+              "fontWeight": 400,
+              "color": "#1e1e1e",
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "align": "left",
+              "verticalAlign": "top"
+            }
+          }
+        }
+      ],
+      "name": "Home"
+    },
+    {
+      "id": "eDn457GRB",
+      "x": 8547.44701138213,
+      "y": 8192.561024645656,
+      "w": 572.997011025207,
+      "h": 565.5990471255591,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none",
+          "color": "#afc5de"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.5,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          14,
+          14,
+          14,
+          14
+        ]
+      },
+      "type": "rect",
+      "locked": true
+    },
+    {
+      "id": "nywnFcjuo",
+      "x": 8547.579179242979,
+      "y": 8192.634505498416,
+      "w": 572.997011025207,
+      "h": 43.22739868496683,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none",
+          "color": "#6586a5"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.5,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          14,
+          14,
+          0,
+          0
+        ]
+      },
+      "type": "rect",
+      "label": {
+        "html": "<p><span style=\"color: rgb(0, 0, 0); font-family: system-ui; font-size: 36px\"><strong>Index</strong></span></p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 19.54,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      }
+    },
+    {
+      "id": "qjDocZ44q",
+      "name": "Index → Pressure Sensitive Paint",
+      "type": "rect",
+      "x": 8560,
+      "y": 8260,
+      "w": 205,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Pressure Sensitive Paint</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "qjDocZ44q": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "T3smSQ6m4",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EaWGKFkwb",
+      "name": "Index → Cycling Helmet Aerodynamics",
+      "type": "rect",
+      "x": 8771,
+      "y": 8260,
+      "w": 229,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Cycling Helmet Aerodynamics</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "EaWGKFkwb": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "fV6TxmTbc",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cojJ2-Sk7",
+      "name": "Index → Glyph Language",
+      "type": "rect",
+      "x": 8560,
+      "y": 8314,
+      "w": 127,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Glyph Language</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "cojJ2-Sk7": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "7a5stzTDp",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7GROtep6Y",
+      "name": "Index → Gestalt",
+      "type": "rect",
+      "x": 8693,
+      "y": 8314,
+      "w": 73,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Gestalt</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "7GROtep6Y": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "Cl6L_t5hS",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IajhVqcRv",
+      "name": "Index → Local LLM Debates",
+      "type": "rect",
+      "x": 8560,
+      "y": 8368,
+      "w": 151,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Local LLM Debates</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "IajhVqcRv": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "ZXcuxoYtZ",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7K_LOPwXG",
+      "name": "Index → SAT Pop Quiz",
+      "type": "rect",
+      "x": 8717,
+      "y": 8368,
+      "w": 112,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>SAT Pop Quiz</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "7K_LOPwXG": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "1RSNK4dYd",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tDwhHi2Tu",
+      "name": "Index → Wall Code",
+      "type": "rect",
+      "x": 8835,
+      "y": 8368,
+      "w": 88,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Wall Code</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "tDwhHi2Tu": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "D-9qYkCVs",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JZza84MM2",
+      "name": "Index → Circle Stipple Filter",
+      "type": "rect",
+      "x": 8560,
+      "y": 8399,
+      "w": 182,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Circle Stipple Filter</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "JZza84MM2": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "QBEBx-tjt",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "YSnxYSMyH",
+      "name": "Index → Physics Sim",
+      "type": "rect",
+      "x": 8748,
+      "y": 8399,
+      "w": 104,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Physics Sim</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "YSnxYSMyH": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "pHZGL5S-V",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tA-lRLCt1",
+      "name": "Index → Raymarching",
+      "type": "rect",
+      "x": 8858,
+      "y": 8399,
+      "w": 104,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Raymarching</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "tA-lRLCt1": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "lrmCUxUhF",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1okAoE7YL",
+      "name": "Index → Grass Shader",
+      "type": "rect",
+      "x": 8968,
+      "y": 8399,
+      "w": 112,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Grass Shader</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "1okAoE7YL": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "MqnP5fXOh",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "HULPGB9Qg",
+      "name": "Index → Room Model",
+      "type": "rect",
+      "x": 8560,
+      "y": 8453,
+      "w": 96,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Room Model</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "HULPGB9Qg": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "KHYZh-PqA",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GWwjioxNd",
+      "name": "Index → House Model",
+      "type": "rect",
+      "x": 8662,
+      "y": 8453,
+      "w": 104,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>House Model</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "GWwjioxNd": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "ED0asyTo8",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SqoiKvFaZ",
+      "name": "Index → 3D Printing",
+      "type": "rect",
+      "x": 8772,
+      "y": 8453,
+      "w": 104,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>3D Printing</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "SqoiKvFaZ": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "eZ9OY_5Bi",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "K7YJ8EHJF",
+      "name": "Index → Physics Foundations",
+      "type": "rect",
+      "x": 8882,
+      "y": 8453,
+      "w": 166,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Physics Foundations</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "K7YJ8EHJF": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "G7B2y-GdW",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mf-hdZPJc",
+      "name": "Index → Rat Jump",
+      "type": "rect",
+      "x": 8560,
+      "y": 8484,
+      "w": 80,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Rat Jump</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "mf-hdZPJc": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "CBj72fvkF",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rvmJpWTMm",
+      "name": "Index → Boss Battle",
+      "type": "rect",
+      "x": 8646,
+      "y": 8484,
+      "w": 104,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Boss Battle</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "rvmJpWTMm": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "OBFjvQwFb",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Z4YIcmD_2",
+      "name": "Index → Wire Gen",
+      "type": "rect",
+      "x": 8756,
+      "y": 8484,
+      "w": 80,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Wire Gen</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "Z4YIcmD_2": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "ByGfxSQAI",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B4Fd3_jb9",
+      "name": "Index → Grass Gen",
+      "type": "rect",
+      "x": 8842,
+      "y": 8484,
+      "w": 88,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Grass Gen</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "B4Fd3_jb9": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "xuC1R9Hfw",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "-Bs1OG8v8",
+      "name": "Index → Fractals",
+      "type": "rect",
+      "x": 8936,
+      "y": 8484,
+      "w": 80,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Fractals</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "-Bs1OG8v8": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "aUfABggjW",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4w9DOxQX",
+      "name": "Index → Black Hole",
+      "type": "rect",
+      "x": 8560,
+      "y": 8515,
+      "w": 96,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Black Hole</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "m4w9DOxQX": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "wQAmW_mdu",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vwI0RkFOD",
+      "name": "Index → VHS Filter",
+      "type": "rect",
+      "x": 8662,
+      "y": 8515,
+      "w": 96,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>VHS Filter</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "vwI0RkFOD": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "-NtMSGfk7",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8hMagPLkE",
+      "name": "Index → Dithering",
+      "type": "rect",
+      "x": 8764,
+      "y": 8515,
+      "w": 88,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Dithering</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "8hMagPLkE": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "NAL2Xi_0R",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "OCWC5-80A",
+      "name": "Index → Boids",
+      "type": "rect",
+      "x": 8560,
+      "y": 8569,
+      "w": 57,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Boids</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "OCWC5-80A": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "NCDY47QGM",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Bpckqxw_a",
+      "name": "Index → Strange Attractors",
+      "type": "rect",
+      "x": 8623,
+      "y": 8569,
+      "w": 158,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Strange Attractors</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "Bpckqxw_a": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "rkW_2qlKl",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Zhm7hHVlU",
+      "name": "Index → Projection Mapping",
+      "type": "rect",
+      "x": 8787,
+      "y": 8569,
+      "w": 158,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Projection Mapping</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "Zhm7hHVlU": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "GFy0Aysfa",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1bb4ES8t",
+      "name": "Index → Pen Plotter",
+      "type": "rect",
+      "x": 8951,
+      "y": 8569,
+      "w": 104,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Pen Plotter</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "a1bb4ES8t": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "ijPKyRrWi",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cAYmxZ9Q",
+      "name": "Index → ASCII Filter",
+      "type": "rect",
+      "x": 8560,
+      "y": 8600,
+      "w": 112,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>ASCII Filter</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "7cAYmxZ9Q": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "bgw8PzHUq",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bQlUMykh",
+      "name": "Index → Image Image Filter",
+      "type": "rect",
+      "x": 8678,
+      "y": 8600,
+      "w": 158,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Image Image Filter</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "7bQlUMykh": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "Qtmf69fwo",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8lI0zTdUc",
+      "name": "Index → Steganography",
+      "type": "rect",
+      "x": 8842,
+      "y": 8600,
+      "w": 119,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Steganography</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "8lI0zTdUc": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "D1-xo_mP7",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fkjyTzkEE",
+      "name": "Index → Card Flipping",
+      "type": "rect",
+      "x": 8967,
+      "y": 8600,
+      "w": 119,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Card Flipping</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "fkjyTzkEE": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "-jAxIiRYN",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W9z9s6Zta",
+      "name": "Index → Cutup",
+      "type": "rect",
+      "x": 8560,
+      "y": 8631,
+      "w": 57,
+      "h": 25,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.2,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "label": {
+        "html": "<p>Cutup</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 13,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "states": {
+        "hover": {
+          "overrides": {
+            "W9z9s6Zta": {
+              "style": {
+                "fill": {
+                  "kind": "solid",
+                  "color": "#eef2f6"
+                }
+              }
+            }
+          },
+          "transition": {
+            "duration": 120,
+            "easing": "ease-out"
+          }
+        }
+      },
+      "interactions": [
+        {
+          "trigger": "hover",
+          "actions": [
+            {
+              "type": "setState",
+              "target": "self",
+              "state": "hover"
+            }
+          ]
+        },
+        {
+          "trigger": "click",
+          "actions": [
+            {
+              "type": "flyTo",
+              "frameId": "hTfMqSMem",
+              "duration": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92O_NWdIo",
+      "name": "Section · Blender",
+      "type": "text",
+      "x": 2780,
+      "y": 5640,
+      "w": 800,
+      "h": 59,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "transparent",
+          "width": 0,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null
+      },
+      "content": {
+        "html": "<p>Blender</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 44,
+          "fontWeight": 700,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "left",
+          "verticalAlign": "middle"
+        }
+      },
+      "autoHeight": true
+    },
+    {
+      "id": "2HDljYH-f",
+      "x": 8860,
+      "y": 8060,
+      "w": 230,
+      "h": 25.402,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none"
+        },
+        "stroke": {
+          "color": "transparent",
+          "width": 0,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null
+      },
+      "type": "text",
+      "content": {
+        "html": "<p>ALL THIS COMING SOON</p>",
+        "style": {
+          "fontFamily": "Cascadia",
+          "fontSize": 19.54,
+          "fontWeight": 400,
+          "color": "#1e1e1e",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "align": "center",
+          "verticalAlign": "middle"
+        }
+      },
+      "autoHeight": true,
+      "autoWidth": true
+    },
+    {
+      "id": "_sEmWvG4P",
+      "x": 8843.0092592649,
+      "y": 8088.6139485742015,
+      "w": 120.26580132116578,
+      "h": 100.80860835001295,
+      "style": {
+        "opacity": 1,
+        "blendMode": "normal",
+        "fill": {
+          "kind": "none",
+          "color": "#fffffc"
+        },
+        "stroke": {
+          "color": "#1e1e1e",
+          "width": 2.5,
+          "dash": "solid",
+          "cap": "round",
+          "join": "round"
+        },
+        "sketch": null,
+        "radius": [
+          14,
+          14,
+          14,
+          14
+        ]
+      },
+      "type": "arrow",
+      "points": [
+        [
+          120.26580132116578,
+          0
+        ],
+        [
+          0,
+          100.80860835001295
+        ]
+      ],
+      "route": "straight",
+      "heads": {
+        "start": "none",
+        "end": "arrow"
+      },
+      "start": {
+        "nodeId": "2HDljYH-f",
+        "focus": 0,
+        "gap": 5,
+        "anchor": [
+          0.467,
+          0.99
+        ]
+      },
+      "end": {
+        "nodeId": "nywnFcjuo",
+        "focus": 0,
+        "gap": 5,
+        "anchor": [
+          0.508,
+          0.01
+        ]
+      }
+    }
+  ]
+}

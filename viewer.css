@@ -1,0 +1,118 @@
+/* Base styles for the canvas viewer. */
+.cvv-root {
+  position: relative;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: none;
+  cursor: grab;
+}
+.cvv-root.cvv-grabbing {
+  cursor: grabbing;
+}
+.cvv-world {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  transform-origin: 0 0;
+}
+.cvv-node {
+  position: absolute;
+  box-sizing: border-box;
+  transform-origin: 50% 50%;
+}
+.cvv-children {
+  position: absolute;
+  inset: 0;
+}
+.cvv-svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+.cvv-zoom-hidden {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Rich text */
+.cvv-text {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  pointer-events: none;
+}
+.cvv-text-content :is(p, h1, h2, h3, ul, ol) {
+  margin: 0;
+}
+.cvv-text-content :is(ul, ol) {
+  padding-left: 1.4em;
+}
+/* Keep blank lines (empty paragraphs) one line tall, as in the editor. */
+.cvv-text-content :is(p, h1, h2, h3):empty::before {
+  content: "\200b";
+}
+.cvv-text-content a {
+  color: inherit;
+  text-decoration: underline;
+  pointer-events: auto;
+  cursor: pointer;
+}
+.cvv-text-content code {
+  font-family: "Cascadia", ui-monospace, monospace;
+  font-size: 0.9em;
+  background: rgba(127, 127, 127, 0.15);
+  padding: 0 0.25em;
+  border-radius: 3px;
+}
+
+/* Media */
+.cvv-media {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+/* A video sits over its poster image, so both fill the box. */
+.cvv-media :is(img, video, iframe) {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.cvv-media video {
+  object-fit: cover;
+}
+.cvv-embed-card {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #fff;
+  font: 13px system-ui, sans-serif;
+  background: #1e1e1e center / cover no-repeat;
+  cursor: pointer;
+}
+.cvv-play {
+  width: 64px;
+  height: 44px;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cvv-embed-host {
+  opacity: 0.8;
+}
